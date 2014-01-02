@@ -4,5 +4,7 @@ return 3;
 }
 
 Function a() {
+a=b;
+c=d;
 return 6;
 }
