@@ -1,0 +1,11 @@
+[Feature-1]
+function b() {
+return 3;
+}
+
+Function a() {
+a=c;
+z=y;
+c=d;
+return 6;
+}
