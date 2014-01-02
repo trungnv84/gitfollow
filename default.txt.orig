@@ -1,12 +1,17 @@
 [Feature-1]
 <<<<<<< HEAD
-djfhdsk kjfs
-dfjdhfks dfkj sdjf
-jhsdkfj skf
-jfhskf sdkfj
-kjh sdlkf
+function b() {
+return 3;
+}
+
+Function a() {
+return 6;
+}
+
+
 =======
-sdkjfls  kjdfl skdf
-sdkfj slkdfj
- ksdfjldsf
->>>>>>> b92880cae15e1c6b049906ac6416406eba8b03a9
+function a() {
+a=s;
+return a;
+}
+>>>>>>> 494dc16dcf1bc4c25f0e889040498fb8f9370587
