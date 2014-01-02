@@ -1,4 +1,5 @@
 [Feature-1]
-sdkjfls  kjdfl skdf
-sdkfj slkdfj
- ksdfjldsf
+function a() {
+a=s;
+return a;
+}
