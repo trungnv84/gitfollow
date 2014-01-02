@@ -4,8 +4,8 @@ return 3;
 }
 
 Function a() {
-a=e;
-i=o;
+a=c;
+z=y;
 c=d;
 return 6;
 }
