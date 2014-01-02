@@ -1,4 +1,10 @@
 [Feature-1]
-dsjfh dskjfhksjd fs
-fsdj fskdjfs
-sd kfslkdfsl 
+function b() {
+return 3;
+}
+
+Function a() {
+return 6;
+}
+
+
