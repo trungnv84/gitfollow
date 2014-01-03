@@ -4,8 +4,13 @@ return 3;
 }
 
 Function a() {
+<<<<<<< HEAD
+a=e;
+i=o;
+=======
 a=c;
 z=y;
+>>>>>>> 8b085949986de001c723ea8e95ade2e7ff8ca8e2
 c=d;
 return 6;
 }
